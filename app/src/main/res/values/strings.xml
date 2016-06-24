@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">project00</string>
+    <string name="Title">My NanoDegree App!</string>
+    <string name="media_streamer">Popular Movies</string>
+    <string name="super_duo1">SCORE APP</string>
+    <string name="Hawk">Stock Hawk</string>
+    <string name="Bigger">Build it Bigger</string>
+    <string name="Material">Make Your App Material</string>
+    <string name="Ubiquitous">Go Ubiquitous</string>
+    <string name="Capstone">Capstone</string>
+</resources>
